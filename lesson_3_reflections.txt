@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+When other people want to work at the same project. i might be not the only one person involved in the project, so other people have to be able to operate on it. A remote repository allows to keep a single repository synchronized online, and everyone can push and pull their own changes on the project.
