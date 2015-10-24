@@ -3,3 +3,9 @@ When other people want to work at the same project. i might be not the only one 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because sometimes commits aren't final commit of a feature so maybe it could be possible that the project doesn't run until the branch closes or a new final feature commit.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks mean that i copy a someone else repository on my pc and i make changes. the original repo won't change instead of mine. 
+Clones means that i'm copying a repository from github.com to my local repo and i can make changes and then update the repo on github.
+Branches are parts of the same project and their purpose is to create separate and parallel branches of the project to work on new features or experimental code. you can do commits and whatever you want, but you won't be able to run your new features or bug fixes until you don't merge the new branches with the main branch called master
